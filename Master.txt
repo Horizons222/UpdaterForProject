@@ -1,4 +1,3 @@
-
 <Version:1.17>
 /data/Map002.json https://raw.githubusercontent.com/Horizons222/UpdaterForProject/main/Map002.json
 <End of Version>
