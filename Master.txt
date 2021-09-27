@@ -5,4 +5,5 @@
 /data/Map006.json https://raw.githubusercontent.com/Horizons222/UpdaterForProject/main/Map006.json
 /img/characters/big_cow_by_candacis.png https://i.imgur.com/dfFvSxL.png
 /img/characters/bandera.png https://i.imgur.com/AhyRLXA.png
+/img/pictures/map.png https://i.imgur.com/1uHuURO.png
 <End of Version>
