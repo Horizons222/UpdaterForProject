@@ -1,4 +1,4 @@
-<Version:30.90>
+<Version:30.901>
 /data/Map001.json https://raw.githubusercontent.com/Horizons222/UpdaterForProject/main/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/Horizons222/UpdaterForProject/main/Map002.json
 /data/Map007.json https://raw.githubusercontent.com/Horizons222/UpdaterForProject/main/Map007.json
